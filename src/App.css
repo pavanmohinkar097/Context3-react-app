@@ -1,0 +1,27 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: orange;
+}
+
+
+.main,h3{
+  text-align: center;
+  margin-top: 23px
+  
+  
+}
+div,button{
+  text-align: center;
+  margin-top: 23px
+  
+} */
+
+Button{
+  cursor: pointer;
+  background-color: blueviolet;
+  font-size: 34px;
+  box-shadow: inset;
+  border-radius: 23px;
+}
